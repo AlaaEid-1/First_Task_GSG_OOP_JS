@@ -1,4 +1,4 @@
-# First_Task_GSG_OOP_JS
+# First and Second Task_GSG_OOP_JS
 
 ##Task 1 
 This run code in browser 
