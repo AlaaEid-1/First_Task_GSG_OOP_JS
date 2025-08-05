@@ -1,6 +1,6 @@
 # First Task_GSG_OOP_JS
 
-##Task 1 
+## Task 1 
 This run code in browser 
 ### Literal JS
 #### بالبداية Literal هي أبسط طريقة لإنشاء object, يتم كتابة obj مباشرة باستخدام {} ونستخدمها لانشاء obj بسيط.
@@ -21,7 +21,7 @@ This run code in browser
 ![constructor](https://github.com/user-attachments/assets/e6e203a8-2e42-4bd2-93bb-fee4d1c98753)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###Class
+### Class
 ####  هاد احدث الطرق لانشاء object , طريقة كتابة الكود مرتبة ,بنستخدم Inheritance ,Abstraction, Encapsulation 
 ![class1](https://github.com/user-attachments/assets/a30b7959-4677-41ee-9b0b-e1f063b61e83)
 
