@@ -1,31 +1,28 @@
 # Difference Http & Https & Http2
 
-## What to include in My summary:
-
-### What is the purpose of each module?
-### Key technical differences between HTTP/1.1 and HTTP/2
-### When to use each module in a real-world application
+###### What is the purpose of each module?
+###### Key technical differences between HTTP/1.1 and HTTP/2
+###### When to use each module in a real-world application
 
 
 ## What is the purpose of each module?
+
 ### Http Module (HyperText Transfer Protocol) 
 - **Purpose:** Provides functionalities to build basic HTTP/1.1 servers and clients.
 
 ### Https Module 
-- **Purpose:** Same as http, but supports secure SSL/TLS connections.
-- **Purpose:** Data sent between your browser and the website is encrypted — no one can spy on it.
+- **Purpose1:** Same as http, but supports secure SSL/TLS connections.
+- **Purpose2:** Data sent between your browser and the website is encrypted — no one can spy on it.
 
 
-## 🔐 What is TLS / SSL?
+##  What is TLS / SSL?
 
 - **TLS (Transport Layer Security)** and **SSL (Secure Sockets Layer)** are cryptographic protocols used to secure communications over the internet.
 - `https` and `http2` rely on **TLS** to encrypt the data and ensure privacy.
 
----
 
 ### Http2 Module
 - **Purpose:** Enables HTTP/2 features: multiplexing, header compression, single connection.
-
 
 
 ### Key technical differences between HTTP/1.1 and HTTP/2
